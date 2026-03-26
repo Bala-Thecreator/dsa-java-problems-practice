@@ -1,11 +1,11 @@
-package com.bala.dsa.blind75;
+package com.bala.dsa.blind75.containsDuplicates;
 
 public class ContainsDuplicates_bruteForceApproach {
     public static void main(String[] args) {
         //hasDuplicate is non-static method. so we must create object first
-        ContainsDuplicates_bruteForceApproach cd = new ContainsDuplicates_bruteForceApproach();
+        ContainsDuplicates_bruteForceApproach cdbf = new ContainsDuplicates_bruteForceApproach();
         int[] nums = {1,2,3,4,1};
-        boolean result =cd.hasDuplicate(nums);
+        boolean result =cdbf.hasDuplicate(nums);
         System.out.println(result);
     }
     public boolean hasDuplicate(int[] nums) {
