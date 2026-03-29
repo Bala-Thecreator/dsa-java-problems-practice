@@ -1,4 +1,4 @@
-package com.bala.dsa.blind75.validAnagram;
+package com.bala.dsa.blind75.arraysHashing.validAnagram;
 
 import java.util.HashMap;
 

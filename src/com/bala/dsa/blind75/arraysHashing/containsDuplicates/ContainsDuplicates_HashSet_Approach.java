@@ -1,4 +1,4 @@
-package com.bala.dsa.blind75.containsDuplicates;
+package com.bala.dsa.blind75.arraysHashing.containsDuplicates;
 
 import java.util.HashSet;
 import java.util.Set;

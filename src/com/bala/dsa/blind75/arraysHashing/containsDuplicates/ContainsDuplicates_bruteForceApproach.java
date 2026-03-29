@@ -1,4 +1,4 @@
-package com.bala.dsa.blind75.containsDuplicates;
+package com.bala.dsa.blind75.arraysHashing.containsDuplicates;
 
 public class ContainsDuplicates_bruteForceApproach {
     public static void main(String[] args) {
