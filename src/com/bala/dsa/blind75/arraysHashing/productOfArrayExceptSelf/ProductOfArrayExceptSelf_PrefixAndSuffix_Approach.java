@@ -32,3 +32,6 @@ public class ProductOfArrayExceptSelf_PrefixAndSuffix_Approach {
         return res;
     }
 }
+
+//Time Complexity -- O(n)
+//Space Complexity --O(n)
