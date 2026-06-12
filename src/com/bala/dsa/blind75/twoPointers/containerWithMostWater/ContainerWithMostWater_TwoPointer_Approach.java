@@ -24,3 +24,6 @@ public class ContainerWithMostWater_TwoPointer_Approach {
         return res;
     }
 }
+
+//Time Complexity -- O(n)
+//Space Complexity  -- O(1)
